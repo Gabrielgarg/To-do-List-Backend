@@ -3,6 +3,7 @@
 .DS_Store
 *.db
 package-lock.json
+.prettierrc
 
 # Logs
 logs
